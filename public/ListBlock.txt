@@ -19,3 +19,13 @@ https://upfastfile.com/upload/natogame.mp4
 
 animekimi.com###animekimiads1
 animekimi.com###animekimiads2
+
+! ped-manga.com
+ped-manga.com##[class="dessert-frame"]
+ped-manga.com##[id="wbnn"]
+ped-manga.com##[class="kln"]
+ped-manga.com##a[rel*=dofollow]
+ped-manga.com##a[rel*=nofollow]
+
+!123-hd.com
+123-hd.com##[id="banner_top"]

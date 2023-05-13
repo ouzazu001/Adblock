@@ -1,1 +1,0 @@
-export { default } from "file:///Users/igeargeek/Project/Adblock.github.io/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
