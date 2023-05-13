@@ -1,0 +1,21 @@
+[Adblock Plus 3.3]
+! Title: christmas-ads-block
+! Expires: 1 days
+
+! video ads
+https://cdend.com//c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/Lcd168-new.mp4
+https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/brazil999.mp4
+https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufazeed.mp4
+https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto432.mp4
+https://1991482557.rsc.cdn77.org/videos/ads-037hdmovie.mp4
+https://upfastfile.com/upload/natogame.mp4
+
+! 037hdmovie.com
+037hdmovie.com##a[rel*=Dofollow]
+037hdmovie.com##a[rel*=nofollow]
+037hdmovie.com##[class=bireklam]
+037hdmovie.com###ads_fox_bottom
+037hdmovie.com###banner-left
+
+animekimi.com###animekimiads1
+animekimi.com###animekimiads2

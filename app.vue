@@ -1,5 +1,10 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <a
+      href="https://subscribe.adblockplus.org/?location=https://ouzazu001.github.io/Adblock/ListBlock.txt&title=ou-ads-block"
+      target="_blank"
+    >
+      test
+    </a>
   </div>
 </template>
