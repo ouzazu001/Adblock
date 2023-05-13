@@ -29,3 +29,15 @@ ped-manga.com##a[rel*=nofollow]
 
 !123-hd.com
 123-hd.com##[id="banner_top"]
+
+!series-play.com
+series-play.com##a[href="https://pgjoker69.co/"]
+series-play.com##a[href="https://www.ufasexygame.com/"]
+series-play.com##a[href="https://sexygame992.com/"]
+series-play.com##a[href="https://newvegas168.co/"]
+
+!anime-masters.com
+anime-masters.com##p[class=center_lnwphp]
+anime-masters.com##[class=banner-close]
+anime-masters.com##a[rel*=nofollow]
+anime-masters.com##a[rel*=noopener]
