@@ -1,5 +1,5 @@
 [Adblock Plus 3.3]
-! Title: christmas-ads-block
+! Title: ou-ads-block
 ! Expires: 1 days
 
 ! video ads
