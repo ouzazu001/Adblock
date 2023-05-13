@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Setup node env
-        uses: actions/setup-node@v16.14.2
+        uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node }}
 
@@ -22,7 +22,7 @@ jobs:
 
       - name: Build
         run: yarn build
-        
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
